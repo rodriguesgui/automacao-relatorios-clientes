@@ -1,0 +1,10 @@
+[
+    {
+      "nome": "EMPRESA EXEMPLO",
+      "login_url": "https://exemplo.com.br/",
+      "usuario": "usuario_exemplo",
+      "senha": "senha_exemplo",
+      "pasta_destino": "C:/empresa_exemplo/carga"
+    }
+  ]
+  
